@@ -1,0 +1,178 @@
+h3{
+    color:rgb(13, 2, 116);
+    background-color:rgb(131, 255, 141);
+    border:solid;
+    text-align:center;
+    margin-left:420px;
+    margin-right:420px;
+}
+h1{
+    margin-left:290px;
+    margin-right:290px;
+    color:rgb(148, 5, 5);
+}
+h2{
+    margin-left:380px;
+    margin-right:380px;
+    color:rgb(148, 5, 5);
+}
+body{
+    background-color: thistle;
+    border:double;
+    border-width:8px;
+}
+a:link{
+    color:#156202;
+    text-decoration:none;
+}
+a:visited{
+    color:#000080;
+    text-decoration:none;
+}
+.route{
+    background-color: khaki;
+    border:solid;
+    margin:10px;
+    padding:10px;
+}
+.distance{
+    background-color: khaki;
+    border: solid;
+    margin:10px;
+    padding:10px;
+}
+.search{
+    margin-left:450px;
+    margin-top: 30px;
+}
+.order{
+    margin-left:430px;
+    margin-top: 10px;
+}
+.button{
+    background-color: salmon;
+    font-size: 12px;
+}
+.info{
+    display:flex;
+    justify-content:flex-end;
+}
+.image{
+    position: relative;
+}
+.image p{
+    position:absolute;
+    top:50%;
+    left:50%
+}
+.firstloc{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.firstloc p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.secondloc{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.secondloc p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.thirdloc{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.thirdloc p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.firstorder{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.firstorder p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.secondorder{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.secondorder p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.thirdorder{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.thirdorder p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.fourthorder{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.fourthorder p{
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+.buy1{
+    margin-left: 410px;
+    margin-top: 40px;
+}
+.buy2{
+    margin-left:385px;
+    margin-top: 40px;
+}
+.buy3{
+    margin-left:350px;
+    margin-top: 40px;
+}
+.buy4{
+    margin-left:330px;
+    margin-top: 40px;
+}
+.details{
+    border:solid;
+    margin-left:50px;
+    margin-top:20px;
+    margin-right:50px;
+    margin-bottom:20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(179, 255, 179);
+}
+.payment{
+    border:solid;
+    margin-left:50px;
+    margin-top:20px;
+    margin-right:50px;
+    margin-bottom:20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(180, 248, 180);
+}
+.submit{
+    margin-left:450px;
+    margin-top: 30px;
+}
