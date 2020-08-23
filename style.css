@@ -1,20 +1,20 @@
+h1{
+    margin-left:270px;
+    margin-right:270px;
+    color:rgb(148, 5, 5);
+}
+h2{
+    margin-left:320px;
+    margin-right:320px;
+    color:rgb(77, 35, 0);
+}
 h3{
     color:rgb(13, 2, 116);
     background-color:rgb(131, 255, 141);
     border:solid;
     text-align:center;
-    margin-left:420px;
-    margin-right:420px;
-}
-h1{
-    margin-left:290px;
-    margin-right:290px;
-    color:rgb(148, 5, 5);
-}
-h2{
     margin-left:380px;
     margin-right:380px;
-    color:rgb(148, 5, 5);
 }
 body{
     background-color: thistle;
@@ -52,6 +52,8 @@ a:visited{
 .button{
     background-color: salmon;
     font-size: 12px;
+    width:100px;
+    height:50px;
 }
 .info{
     display:flex;
@@ -175,4 +177,43 @@ a:visited{
 .submit{
     margin-left:450px;
     margin-top: 30px;
+}
+.booknow1{
+    margin-left:240px;
+    margin-top:100px;
+}
+.booknow2{
+    margin-left:205px;
+    margin-top:100px;
+}
+.booknow3{
+    margin-left:170px;
+    margin-top:100px;
+}
+.time{
+    border:solid;
+    margin-left:50px;
+    margin-top:20px;
+    margin-right:50px;
+    margin-bottom:20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: #ffdaa0;
+}
+.booktime{
+    border:solid;
+    margin-left:50px;
+    margin-top:20px;
+    margin-right:50px;
+    margin-bottom:20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffdaa0;
+}
+.message{
+    border:solid;
+    margin-left:320px;
+    margin-right:370px;
+    padding-left:10px;
 }
